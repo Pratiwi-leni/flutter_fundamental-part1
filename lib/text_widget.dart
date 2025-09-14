@@ -6,9 +6,8 @@ class myTextWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Text(
-      'Hello, Flutter!',
+      'Hello, Nama Saya Leni Ayu Pratiwi',
       style: TextStyle(fontSize: 24),
       textAlign: TextAlign.center,
     ); // text
-  }
-}
+ }}
